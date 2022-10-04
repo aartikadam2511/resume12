@@ -1,0 +1,124 @@
+html,body{
+    overflow-x: hidden;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+.im{
+    display: inline-block;
+    position:absolute;
+    left: 250px;
+    top: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.nav{
+    position: relative;
+    left: 900px;
+    top:70px;
+    color: #45b29a;
+    
+}  
+.nav a{
+    padding: 18px 22px;
+    text-decoration: none;
+    color: #45b29a;
+    font-size: 120%;
+}
+.nav a:hover{
+    color: black;
+}
+.main{
+    background-color:E3FCBF;
+height:150%;
+width:100%;
+    }
+    .sz{
+        margin-top:0;
+        position: absolute;
+        top: 170px;
+        font-size: 70px;
+        font-family: 'Sacramento',cursive;
+        color:14C38E;
+        right:550px;
+    }
+    .s1{
+        position: relative;
+        top: 230px;
+        right: 40px;
+        
+    }
+    .t1{
+        position: relative;
+        left: 60px;
+        font-size: 19px;
+    }
+    .c1{
+        width: 25%;
+        height: 50px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    .c2{
+        width: 25%;
+        height: 50px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    .c3{
+        width: 25%;
+        height: 50px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    .t1{
+        position: relative;
+        left: 150px;
+        top: 270px;
+    }
+    .button {
+        border: none;
+        color:black;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        background-color: #4CAF50;
+        border-radius: 25px;
+        box-shadow:   3px 3px 4px #000000;
+        position: relative;
+        height: 40px;
+        width: 200px;
+        top: 40px;
+        right: 270px; 
+      }
+      .button:hover {
+        background-color: #3e8e41;
+      }
+      .t2{
+        position: relative;
+        bottom: 50px;
+        left: 790px;
+      }
+      .t3{
+        position: relative;
+        left: 900;
+        bottom:700px ;
+        font-size: 30px;
+      }

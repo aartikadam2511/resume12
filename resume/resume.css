@@ -1,0 +1,284 @@
+html,body{
+    overflow-x: hidden;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+.im{
+    display: inline-block;
+    position:absolute;
+    left: 250px;
+    top: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.nav{
+    position: relative;
+    left: 900px;
+    top:70px;
+    color: #45b29a;
+    
+}  
+.nav a{
+    padding: 18px 22px;
+    text-decoration: none;
+    color: #45b29a;
+    font-size: 120%;
+}
+.nav a:hover{
+    color: black;
+}
+
+
+/* .name{
+    position:absolute;
+right:400px;
+top: 100px;
+color:#d7a0fa;
+
+} */
+.sz{
+    margin-top:0;
+    position: absolute;
+    top: 200px;
+    font-size: 80px;
+    font-family: 'Sacramento',cursive;
+    color:14C38E;
+    right:530px;
+}
+.sy{
+    position: absolute;
+    top: 320px;
+    color: 14C38E;
+    right:570px;
+}
+.mo1{
+    position:absolute;
+    left:370px;
+     top:465px;
+}
+.cl{
+    position: absolute;
+    right: 100px;
+    top: 400px;
+}
+.c{
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+
+    .i1{
+        position:absolute;
+        left:660px;
+        top:750px;
+        border-radius:50%;
+        overflow: hidden;
+    }
+    .sum{
+        position:absolute;
+        top: 910px;
+        left: 450px;
+        font-size: 20px;
+        font-family:"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+        text-align: center;
+    }
+    .w{
+        position:absolute;
+        left: 680px;
+        top:850px;
+        color: 14C38E;
+        float: center;
+    }
+    .main{
+    background-color:E3FCBF;
+height:115%;
+width:100%;
+    }
+    .hh{
+        position: absolute;
+        top: 1000px;
+    }
+    .a1{
+        width: 5%;
+        border-style: none;
+        border-top-style:dotted ;
+        border-width: 5px;
+        color: #dbd9d9;
+        position: relative;
+        top: 350px;
+        left: 15px;
+    }
+    .a2{
+        position: relative;
+        top: 400px;
+        color: #1e836c;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 400;
+    font-family: serif;
+    }
+    .a3{
+        position: relative;
+        left: 300px;
+        top:450px;
+        border-radius:50%;
+        overflow: hidden;
+    }
+    .a4{
+        border-radius: 50%;
+        position: relative;
+        left: 520px;
+        top: 380px; 
+    }
+    .a5{
+        color: 14C38E;
+        position: relative;
+    }
+    .a6{
+        position: relative;
+        color: #454443;
+    }
+    .a7{
+        position: relative;
+        top: 260px;
+        left: 670px;
+        font-family:"Lucida Grande",sans-serif;
+        font-weight: 300;
+    }
+    .a8{
+        width: 6%;
+        border-style: none;
+        border-top-style:dotted ;
+        border-width: 6px;
+        color: #dbd9d9;
+        position: relative;
+       top: 210px;
+       right: 200px;
+    }
+    .a10{
+        width: 6%;
+        border-style: none;
+        border-top-style:dotted ;
+        border-width: 6px;
+        color: #dbd9d9;
+        position: relative;
+       top: 340px;
+       right: 200px;
+    }
+    .h4{
+        position: relative;
+        left: 375px;
+    }
+    .h6{
+        position: relative;
+        right: 370px;
+    }
+    .h3{
+        position: relative;
+        bottom: 130px;
+    }
+    .a11{
+        color: #1e836c;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 400;
+    font-family: serif;
+    position: relative;
+    top: 200px;
+    }
+    .a12{
+        position: relative;
+        top: 240px;
+        left: 400px;
+        font-size: 2em;
+        color: #45b29a;
+    }
+    .a13{
+        position: relative;
+        font-size: 1.2em;
+        left: 400px;
+        top: 250px;
+    }
+    .btn {
+        border: none;
+        color: #1b7f69;
+        background-color: #45b29a;
+        padding: 0.75em 2em 0.75em 3.5em;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: .8em;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 3px;
+        text-transform: uppercase;
+        position: relative;
+        top: 270px;
+        left:600px;
+        bottom: 50px;
+      }
+      .btn:hover{
+        background-color: #1b6146;
+        color: white;
+      }
+      .a14{
+        background-color:#c5ded7;
+        width: 100%;
+        height: 160px;
+        position: relative;
+        top: 350px;
+    
+      }
+      .f1{
+        text-decoration: none;
+        border: none;
+        position: relative;
+        top: 80px;
+        left: 500px;
+        color: #45b29a;
+        font-size: 1.5em;
+      }
+      .f2{
+        text-decoration: none;
+        border: none;
+        position: relative;
+        top: 80px;
+        left: 550px;
+        color: #45b29a;
+        font-size: 1.5em;
+      }
+      .f3{
+        text-decoration: none;
+        border: none;
+        position: relative;
+        top: 80px;
+        left: 590px;
+        color: #45b29a;
+        font-size: 1.5em;
+      }
+      .f1:hover{
+        color: black;
+      }
+      .f2:hover{
+        color: black;
+      }
+      .f3:hover{
+        color: black;
+      }
+      .a15{
+        position: relative;
+        text-align: center;
+        color: #45b29a;
+        font-size: 1em;
+        font-weight: 400;
+        margin: 0;
+        padding: 2.5em 0 0;
+        top: 280px;
+      }
+      .f4:hover{
+        color: black;
+      }
+      
